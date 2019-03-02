@@ -10,13 +10,13 @@
 	
 	if(email.value != "pejade14"){
 		email.style.border = "1px solid red";
-		login_error.textContent = "Invalid Email Address!";
+		login_error.textContent = "Email Address is not Registered!";
 		email.focus();
 		return false;
 	}
 	if(pw.value != "asd123"){
 		pw.style.border = "1px solid red";
-		pass_error.textContent = "Invalid Password!";
+		pass_error.textContent = "Password is incorrect!";
 		pw.focus();
 		return false;
 	}
