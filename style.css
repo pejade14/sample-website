@@ -49,7 +49,7 @@ nav ul li a:hover{
 
 #container {
 	min-height: 100%;
-	background-image: url("img.jpg");
+	background-image: url("https://pejade14.github.io/sample-website/img.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
