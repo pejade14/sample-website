@@ -11,7 +11,7 @@
 <div id="container">
 	<div id="main"> 
 		<nav>
-		<a href="http://localhost:82/RKT/home.php"><img src="pj.png" class="img"></a>
+		<a href="https://pejade14.github.io/sample-website/index.html"><img src="pj.png" class="img"></a>
 			<ul>
 				<li><a href="#">About Us</a></li>
 			<li><a href="#">Services</a></li>
@@ -33,7 +33,7 @@
 				<label>Re-type Password:</label></br>
 				<input type="password" placeholder="Re-type Password..."></br>
 				<input type="submit" value="Register">
-				<a href="http://localhost:82/RKT/home.php">Click here to Log in</a>
+				<a href="https://pejade14.github.io/sample-website/index.html">Click here to Log in</a>
 				</form>
 				</div>
 	
